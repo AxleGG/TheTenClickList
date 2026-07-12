@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password": "No password",
     "records": [
-        
+        {
+            "user": "Wyspir",
+            "link": "https://www.youtube.com/watch?v=x5r1Dq_FqSI",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
