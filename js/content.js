@@ -3,7 +3,7 @@ import { round, score } from './score.js';
 /**
  * Path to directory containing `list.json` and all levels
  */
-const dir = 'https://axlegg.github.io/TCLlist/data';
+const dir = 'https://axlegg.github.io/TenClickList/data';
 
 export async function fetchList() {
     const listResult = await fetch(`${dir}/list.json`);
