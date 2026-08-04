@@ -113,7 +113,7 @@ export default {
 
                     <h3>Misc Info</h3>
                     <p>
-                        We list Hz as your fps in the top left corner. You may use fps bypass, Just so you know.
+                        We list Hz as your fps in the top left corner. You may use fps bypass (up to 360 fps), Just so you know.
                     </p>
                 </div>
             </div>
